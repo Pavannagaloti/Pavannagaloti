@@ -62,27 +62,7 @@ Passionate about building scalable applications, solving complex problems, and c
 
 ---
 
-## 📈 Coding Journey
-
-✔️ 500+ LeetCode Problems Solved
-
-✔️ Strong Foundation in Data Structures & Algorithms
-
-✔️ Hands-on Experience in Full Stack Development
-
-✔️ Experience Building Real-Time Applications
-
-✔️ Continuous Learner & Open Source Enthusiast
-
----
-
-## 🎓 Certifications
-
-🏅 AI & Machine Learning Engineer  
-Rooman Technologies (IBM Partnership)
-
-🏅 Data Analytics Virtual Job Simulation  
-Deloitte Australia
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" /> <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" /> </picture>
 
 ---
 
